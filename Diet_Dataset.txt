@@ -1,0 +1,17 @@
+#Listing showing sample food items consumed within a day
+#TIME, MTYPE, DESC, SERVING, KCAL, SFATg
+08:11, Breakfast, Cereal, 200, 210, 1.6
+08:20, Breakfast, Pancake, 38, 74, 1.4
+08:20, Breakfast, Coffee, 200, 20, 0.4
+10.30, Snack, Chocolate, 10, 56, 2.5
+12:15, Lunch, Soup, 300, 170, 0.3
+12:20, Lunch, Sandwich, 180, 365, 2.3
+12:25, Lunch, Yogurt, 125, 65, 0.1
+14:00, Snack, Apple, 100, 51, 0.1
+17:30, Dinner, Fries, 70, 129, 0.6
+17.30, Dinner, Chicken Breast, 155, 240, 3.5
+17.30, Dinner, Broccoli, 85, 29, 0.1
+18:00, Snack, Coffee, 200, 20, 0.4
+20:00, Snack, Coffee, 200, 20, 0.4
+20:00, Snack, Chocolate, 10, 56, 2.5
+22:30, Snack, Cereal, 200, 210, 1.6
